@@ -1,0 +1,18 @@
+PASTA DE IMAGENS - Cardoso Churrascaria e Choperia
+
+Coloque aqui SOMENTE fotos reais do estabelecimento, com autorizacao de quem as fez e do responsavel pela casa.
+Nao use fotos baixadas do Google Maps, do Instagram ou de bancos de imagens como se fossem da casa.
+
+Nomes esperados pelo site (o site ja procura estes arquivos):
+  hero.jpg      foto grande do topo da pagina (ideal: horizontal, 1920 x 1080)
+  foto-01.jpg   galeria, destaque grande (horizontal, 1600 x 1200)
+  foto-02.jpg
+  foto-03.jpg
+  foto-04.jpg
+  foto-05.jpg
+  foto-06.jpg
+
+Dicas:
+  - Use formato JPG e deixe cada foto com menos de 500 KB (o site fica rapido no celular).
+  - Enquanto um arquivo nao existir, o site mostra um espaco reservado no lugar.
+  - No index.html, edite o texto alt de cada foto para descrever o que ela realmente mostra.
